@@ -1,1 +1,1 @@
-"v1 (pushed while repo was hamishmack/flake-transfer-test)"
+"v2 (pushed to ghcjs/flake-transfer-test after the transfer)"
